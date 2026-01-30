@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f396ea-6c4d-423f-838d-6af2f5f09866" name="Changes" comment="unneeded testing class removed">
+    <list default="true" id="d2f396ea-6c4d-423f-838d-6af2f5f09866" name="Changes" comment="modifying the game checker and remove any unused parameters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameParameters/StateChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameParameters/StateChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769793114757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modifying the game checker and remove any unused parameters">
+      <option name="closed" value="true" />
+      <created>1769794882495</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769794882495</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding the AI to the game and some Parameters!" />
     <MESSAGE value="unneeded testing class removed" />
-    <option name="LAST_COMMIT_MESSAGE" value="unneeded testing class removed" />
+    <MESSAGE value="modifying the game checker and remove any unused parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifying the game checker and remove any unused parameters" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
