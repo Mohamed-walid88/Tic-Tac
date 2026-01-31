@@ -61,7 +61,7 @@ public class ComputerPlayer {
         int state = encodeBoard(board) * 2 + (isMaximizing ? 1 : 0);
         if (dp.containsKey(state)) return dp.get(state);
 
-        GameState result = stateChecker.getGameState(board, side, opponent);
+        GameState result = stateChecker.getGameState(board, side);
 
         // Terminal States
         if (result == GameState.Player1Win)  // side wins (since side is Player1)
